@@ -1758,5 +1758,25 @@
 			</Transition>
 		</Approach>
 	</Airport>
+  <Waypoint lon="-0.191278" lat="45.727500" magvar="0.0" waypointType="NAMED" waypointRegion="LF" waypointIdent="FI23"/>
+  <Waypoint lon="-0.432972" lat="45.580028" magvar="0.0" waypointType="NAMED" waypointRegion="LF" waypointIdent="FV05"/>
+  <Waypoint lon="-0.182139" lat="45.718389" magvar="0.0" waypointType="NAMED" waypointRegion="LF" waypointIdent="FV23"/>
+  <Waypoint lon="-0.435139" lat="45.582306" magvar="0.0" waypointType="RNAV" waypointRegion="LF" waypointIdent="FBG05"/>
+  <Waypoint lon="-0.191778" lat="45.727222" magvar="0.0" waypointType="RNAV" waypointRegion="LF" waypointIdent="FBG23"/>
+  <Waypoint lon="-0.492917" lat="45.547722" magvar="0.0" waypointType="RNAV" waypointRegion="LF" waypointIdent="IBG05"/>
+  <Waypoint lon="-0.119083" lat="45.770250" magvar="0.0" waypointType="RNAV" waypointRegion="LF" waypointIdent="IBG23"/>
+  <Waypoint lon="-0.151167" lat="45.753694" magvar="0.0" waypointType="NAMED" waypointRegion="LF" waypointIdent="II23"/>
+  <Waypoint lon="-0.460833" lat="45.561722" magvar="0.0" waypointType="NAMED" waypointRegion="LF" waypointIdent="IV05"/>
+  <Waypoint lon="-0.138139" lat="45.738333" magvar="0.0" waypointType="NAMED" waypointRegion="LF" waypointIdent="IV23"/>
+  <Waypoint lon="-0.196000" lat="45.833861" magvar="0.0" waypointType="RNAV" waypointRegion="LF" waypointIdent="BG421"/>
+  <Waypoint lon="-0.042333" lat="45.706583" magvar="0.0" waypointType="RNAV" waypointRegion="LF" waypointIdent="BG422"/>
+  <Waypoint lon="-0.393278" lat="45.607306" magvar="0.0" waypointType="RNAV" waypointRegion="LF" waypointIdent="BG423"/>
+  <Waypoint lon="-0.470194" lat="45.670806" magvar="0.0" waypointType="RNAV" waypointRegion="LF" waypointIdent="BG424"/>
+  <Waypoint lon="-0.418389" lat="45.644194" magvar="0.0" waypointType="RNAV" waypointRegion="LF" waypointIdent="BG430"/>  
+  <Waypoint lon="-0.542194" lat="45.588278" magvar="0.0" waypointType="RNAV" waypointRegion="LF" waypointIdent="BG431"/>
+  <Waypoint lon="-0.451417" lat="45.513472" magvar="0.0" waypointType="RNAV" waypointRegion="LF" waypointIdent="BG432"/>
+  <Waypoint lon="-0.241472" lat="45.697722" magvar="0.0" waypointType="RNAV" waypointRegion="LF" waypointIdent="BG433"/>  
+  <Waypoint lon="-0.323028" lat="45.649214" magvar="0.0" waypointType="RNAV" waypointRegion="LF" waypointIdent="RW05"/>  
+  <Waypoint lon="-0.302792" lat="45.661261" magvar="0.0" waypointType="RNAV" waypointRegion="LF" waypointIdent="RW23"/>
 </FSData>
 
