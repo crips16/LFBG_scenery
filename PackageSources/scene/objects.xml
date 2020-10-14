@@ -1725,8 +1725,8 @@
 		<Com frequency="120.07" type="TOWER" name="COGNAC Tower"/>
 		<Com frequency="122.10" type="TOWER" name="COGNAC Tower"/>
 		<Com frequency="122.55" type="TOWER" name="COGNAC Tower"/>
-		<Ils lat="45.663211" lon="-0.299525" alt="31.3" heading="229.9" frequency="109.9" magvar="0.0" ident="CGC" width="5.0" name="ILS RWY 23">
-			<GlideSlope lat="45.663211" lon="-0.299525" alt="31.3" pitch="3" range="6.5N"/>
+		<Ils lat="45.646694" lon="-0.327250" alt="25.6" heading="229.9" frequency="109.9" magvar="0.0" ident="CGC" width="5.0" name="ILS RWY 23">
+			<GlideSlope lat="45.658667" lon="-0.304139" alt="31.7" pitch="3" range="6.5N"/>
 		</Ils>
 		<Approach type="RNAV" runway="23" fixType="TERMINAL_WAYPOINT" fixRegion="LF" fixIdent="FBG23" altitude="2100.0F" heading="230.0" missedAltitude="2100.0F">
 			<ApproachLegs>
